@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hello World",
-  description: "A simple Hello World app",
+  title: "My Vibe Coding App",
+  description: "My Vibe Coding App",
 };
 
 export default function RootLayout({
